@@ -1,0 +1,11 @@
+^ContentPage {
+    background-color: azure;
+}
+.containerLabel {
+    font-size: large;
+    text-align: center;
+    color: yellow;
+    background-color: gray;
+    margin: 20;
+    padding: 30;
+}
